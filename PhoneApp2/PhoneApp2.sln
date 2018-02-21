@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "PhoneApp2", "PhoneApp2\PhoneApp2.vbproj", "{01282E40-9495-49AD-A710-EFEC33A532FA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|ARM = Debug|ARM
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|ARM = Release|ARM
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{01282E40-9495-49AD-A710-EFEC33A532FA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{01282E40-9495-49AD-A710-EFEC33A532FA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{01282E40-9495-49AD-A710-EFEC33A532FA}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{01282E40-9495-49AD-A710-EFEC33A532FA}.Debug|ARM.ActiveCfg = Debug|ARM
+		{01282E40-9495-49AD-A710-EFEC33A532FA}.Debug|ARM.Build.0 = Debug|ARM
+		{01282E40-9495-49AD-A710-EFEC33A532FA}.Debug|ARM.Deploy.0 = Debug|ARM
+		{01282E40-9495-49AD-A710-EFEC33A532FA}.Debug|x86.ActiveCfg = Debug|x86
+		{01282E40-9495-49AD-A710-EFEC33A532FA}.Debug|x86.Build.0 = Debug|x86
+		{01282E40-9495-49AD-A710-EFEC33A532FA}.Debug|x86.Deploy.0 = Debug|x86
+		{01282E40-9495-49AD-A710-EFEC33A532FA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{01282E40-9495-49AD-A710-EFEC33A532FA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{01282E40-9495-49AD-A710-EFEC33A532FA}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{01282E40-9495-49AD-A710-EFEC33A532FA}.Release|ARM.ActiveCfg = Release|ARM
+		{01282E40-9495-49AD-A710-EFEC33A532FA}.Release|ARM.Build.0 = Release|ARM
+		{01282E40-9495-49AD-A710-EFEC33A532FA}.Release|ARM.Deploy.0 = Release|ARM
+		{01282E40-9495-49AD-A710-EFEC33A532FA}.Release|x86.ActiveCfg = Release|x86
+		{01282E40-9495-49AD-A710-EFEC33A532FA}.Release|x86.Build.0 = Release|x86
+		{01282E40-9495-49AD-A710-EFEC33A532FA}.Release|x86.Deploy.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
